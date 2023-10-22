@@ -5,5 +5,9 @@
     <url>/2023/10/22/demo/</url>
     <content><![CDATA[<p>你好，我的第一篇博客</p>
 ]]></content>
+      <tags>
+        <tag>个人博客</tag>
+        <tag>java</tag>
+      </tags>
   </entry>
 </search>
